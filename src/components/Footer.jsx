@@ -60,26 +60,7 @@ const Footer = () => {
                     </div>
 
                     {/* COLUNA 4: CONTATO & LOCALIZAÇÃO */}
-                    <div className="space-y-6">
-                        <h4 className="text-[#C5A059] text-xs font-bold uppercase tracking-[0.3em]">Contato Direto</h4>
-                        <div className="space-y-4">
-                            <div className="flex items-start gap-3 group">
-                                <MapPin className="w-5 h-5 text-[#C5A059] mt-0.5" />
-                                <p className="text-white/60 text-sm leading-relaxed">
-                                    Av. Paulista, 1000 - 12º Andar<br />
-                                    Bela Vista, São Paulo - SP
-                                </p>
-                            </div>
-                            <div className="flex items-center gap-3">
-                                <Phone className="w-5 h-5 text-[#C5A059]" />
-                                <p className="text-white/60 text-sm font-bold tracking-widest">(16) 3013-0049</p>
-                            </div>
-                            <div className="flex items-center gap-3">
-                                <Mail className="w-5 h-5 text-[#C5A059]" />
-                                <p className="text-white/60 text-sm">contato@hugomoura.adv.br</p>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
 
                 {/* BARRA FINAL: COPYRIGHT & OAB */}
