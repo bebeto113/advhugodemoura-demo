@@ -86,7 +86,7 @@ const Footer = () => {
                 <div className="pt-10 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6">
                     <div className="text-center md:text-left">
                         <p className="text-white/30 text-[10px] uppercase tracking-[0.3em]">
-                            © 2024 Hugo Moura Sociedade de Advocacia • OAB/SP 00.000
+                            © 2026 Hugo Moura Sociedade de Advocacia
                         </p>
                         <p className="text-white/20 text-[9px] mt-2">
                             Desenvolvido com excelência para o mercado jurídico de alto padrão.
